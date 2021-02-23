@@ -9,4 +9,4 @@ smallest_difference_index = absolute_val_array.argmin()
 print(smallest_difference_index)
 closest_element = arr[smallest_difference_index]
 
-print("Closest element to" ,value, "is", closest_element)
+print("Updated- Closest element to" ,value, "is::::", closest_element)
