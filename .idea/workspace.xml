@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c170e587-dd45-47f0-bef2-59fd4844b9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/ImportingCreatedModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/Pickling&amp;Unpickling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/TryExceptFinally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/TryExceptWith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/nester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/HeadFirstPython2010/PageNo21_List_Exercice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/PageNo21_List_Exercice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/HeadFirstPython2010/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
