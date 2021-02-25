@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c170e587-dd45-47f0-bef2-59fd4844b9e6" name="Default Changelist" comment="Adding one more file from UI">
+    <list default="true" id="c170e587-dd45-47f0-bef2-59fd4844b9e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/ImportingCreatedModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/Pickling&amp;Unpickling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/TryExceptFinally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/TryExceptWith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/nester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programs/HeadFirstPython2010/PageNo21_List_Exercice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/PageNo21_List_Exercice.py" afterDir="false" />
     </list>
@@ -53,28 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
   </component>
-  <component name="RunManager" selected="Python.PageNo21_List_Exercice">
-    <configuration name="Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\python3.8\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/StringPrograms" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/StringPrograms/Example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Pickling&amp;Unpickling">
     <configuration name="PageNo21_List_Exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,10 +82,118 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Pickling&amp;Unpickling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/Pickling&amp;Unpickling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TryExceptFinally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Automation\PyCharmWorkSpace\Programs\Programs\HeadFirstPython2010\TryExceptFinally.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TryExceptFinally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Automation\PyCharmWorkSpace\Programs\Programs\HeadFirstPython2010\TryExceptFinally.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TryExceptWith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/TryExceptWith.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/nester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PageNo21_List_Exercice" />
-        <item itemvalue="Python.Example" />
+        <item itemvalue="Python.Pickling&amp;Unpickling" />
+        <item itemvalue="Python.TryExceptWith" />
+        <item itemvalue="Python.TryExceptFinally" />
+        <item itemvalue="Python.TryExceptFinally" />
+        <item itemvalue="Python.nester" />
       </list>
     </recent_temporary>
   </component>
@@ -160,42 +254,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#Example/0.0.1366.728@0.0.1366.728" timestamp="1614074568780" />
+    <state x="408" y="0" key="#ImportingCreatedModule" timestamp="1614170622369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="0" key="#ImportingCreatedModule/0.0.1366.728@0.0.1366.728" timestamp="1614170622369" />
     <state x="408" y="0" key="#PageNo21_List_Exercice" timestamp="1614161300349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#PageNo21_List_Exercice/0.0.1366.728@0.0.1366.728" timestamp="1614161300349" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1614162631819">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1614274034459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614162631819" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1614162631819">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614274034459" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1614274034459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614162631819" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1614162631819">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614274034459" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1614274034459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614162631819" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1614162631819">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614274034459" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1614274034459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614162631819" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1614162631820">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614274034459" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1614263257339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614162631820" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1614162631820">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614263257339" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1614263257339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614162631820" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1614162631820">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614263257339" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1614263257339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614162631820" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1614162631820">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614263257339" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1614263257339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614162631820" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614263257339" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1614161143696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
