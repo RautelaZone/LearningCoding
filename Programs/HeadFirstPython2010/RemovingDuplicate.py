@@ -66,3 +66,5 @@ print(sorted(removeD))
 #     if each_t not in unique_sarah:
 #         unique_sarah.append(each_t) #this will add list into unique_sarah if not in there or can say removing duplicacy
 # print(unique_sarah[0:3])    #will give first three item from 0,1,2
+
+

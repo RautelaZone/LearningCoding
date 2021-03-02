@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c170e587-dd45-47f0-bef2-59fd4844b9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/AskedInInterview/SOTI_HeackerEarth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/142_Exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/ListComprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/RemovingDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/UseOfDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/WorkingWithSets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/DataStructure/Recursion/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/Practice/Examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programs/AskedInInterview/ClosestToNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/AskedInInterview/ClosestToNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/AskedInInterview/ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/AskedInInterview/ReverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/HeadFirstPython2010/RemovingDuplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/HeadFirstPython2010/RemovingDuplicate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
   </component>
-  <component name="RunManager" selected="Python.SOTI_HeackerEarth">
+  <component name="RunManager" selected="Python.Factorial">
     <configuration name="ClosestToNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/ListComprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/Practice/Examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RemovingDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/DataStructure/Recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/RemovingDuplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/DataStructure/Recursion/Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SOTI_HeackerEarth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FindingHighestNosWhoseSumIsMax" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Automation\PyCharmWorkSpace\Programs\Programs\AskedInInterview\SOTI_HeackerEarth.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/AskedInInterview/FindingHighestNosWhoseSumIsMax.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TryExceptFinally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,32 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/AskedInInterview" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Automation\PyCharmWorkSpace\Programs\Programs\HeadFirstPython2010\TryExceptFinally.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="UseOfDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/HeadFirstPython2010" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/HeadFirstPython2010/UseOfDictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/AskedInInterview/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SOTI_HeackerEarth" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.Examples" />
         <item itemvalue="Python.ClosestToNumber" />
-        <item itemvalue="Python.UseOfDictionary" />
-        <item itemvalue="Python.ListComprehension" />
-        <item itemvalue="Python.RemovingDuplicate" />
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.FindingHighestNosWhoseSumIsMax" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +231,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#Example/0.0.1366.728@0.0.1366.728" timestamp="1614074568780" />
+    <state x="408" y="0" key="#Examples" timestamp="1614447515122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="0" key="#Examples/0.0.1366.728@0.0.1366.728" timestamp="1614447515122" />
     <state x="408" y="0" key="#ImportingCreatedModule" timestamp="1614170622369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -261,41 +243,56 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#PageNo21_List_Exercice/0.0.1366.728@0.0.1366.728" timestamp="1614161300349" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1614359099879">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1614705838300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614359099879" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1614359099879">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614705838300" />
+    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1614705838300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614359099879" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1614359099878">
+    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614705838300" />
+    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1614705838300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614359099878" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1614359099879">
+    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614705838300" />
+    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1614705838300">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614359099879" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1614276702265">
+    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614705838300" />
+    <state width="1345" height="278" key="GridCell.Tab.1.bottom" timestamp="1614704687760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614276702265" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1614276702264">
+    <state width="1345" height="278" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614704687760" />
+    <state width="1345" height="278" key="GridCell.Tab.1.center" timestamp="1614704687759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614276702264" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1614276702264">
+    <state width="1345" height="278" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614704687759" />
+    <state width="1345" height="278" key="GridCell.Tab.1.left" timestamp="1614704687759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614276702264" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1614276702264">
+    <state width="1345" height="278" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614704687759" />
+    <state width="1345" height="278" key="GridCell.Tab.1.right" timestamp="1614704687760">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614276702264" />
+    <state width="1345" height="278" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614704687760" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1614161143696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614161143696" />
+    <state x="249" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614704568413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="249" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1614704568413" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
