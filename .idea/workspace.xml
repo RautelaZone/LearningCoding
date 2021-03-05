@@ -20,11 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c170e587-dd45-47f0-bef2-59fd4844b9e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/DataStructure/Recursion/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programs/DataStructure/Recursion/PoweOf2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/3DList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/CheckVowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/FindDuplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/FindIntersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/FindUnion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/FlatternMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/LambdaFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/List BIFs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/NestedListComprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/PrintWithAlignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/RemoveAllCharactersExcepAlphabets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/RemoveDuplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/ReverseEverySubArrayFormedBy Consecutive_K_Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/String BIFs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/GeeksForGeeks/to_check_if_a_string_can_become_empty_by_recursive_deletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/SampleProgram.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/AskedInInterview/SOTI_HeackerEarth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/DataStructure/Recursion/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/DataStructure/Recursion/Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/AskedInInterview/ReverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/AskedInInterview/ReverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Practice/Examples.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -53,12 +69,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Factorial">
-    <configuration name="ClosestToNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SampleProgram">
+    <configuration name="FindIntersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/AskedInInterview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/GeeksForGeeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/AskedInInterview/ClosestToNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/GeeksForGeeks/FindIntersection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="FindUnion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/GeeksForGeeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/Practice/Examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/GeeksForGeeks/FindUnion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LambdaFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/DataStructure/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/GeeksForGeeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/DataStructure/Recursion/Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/GeeksForGeeks/LambdaFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/DataStructure/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/GeeksForGeeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/DataStructure/Recursion/Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/GeeksForGeeks/RemoveDuplicate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PoweOf2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SampleProgram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs/DataStructure/Recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Automation\PyCharmWorkSpace\Programs\Programs\DataStructure\Recursion\PoweOf2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programs/SampleProgram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Factorial" />
-        <item itemvalue="Python.Fibonacci" />
-        <item itemvalue="Python.PoweOf2" />
-        <item itemvalue="Python.Examples" />
-        <item itemvalue="Python.ClosestToNumber" />
+        <item itemvalue="Python.SampleProgram" />
+        <item itemvalue="Python.LambdaFunction" />
+        <item itemvalue="Python.FindIntersection" />
+        <item itemvalue="Python.FindUnion" />
+        <item itemvalue="Python.RemoveDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -230,10 +247,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#Example/0.0.1366.728@0.0.1366.728" timestamp="1614074568780" />
-    <state x="408" y="0" key="#Examples" timestamp="1614447515122">
+    <state x="408" y="0" key="#Examples" timestamp="1614861903906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="408" y="0" key="#Examples/0.0.1366.728@0.0.1366.728" timestamp="1614447515122" />
+    <state x="408" y="0" key="#Examples/0.0.1366.728@0.0.1366.728" timestamp="1614861903906" />
     <state x="408" y="0" key="#ImportingCreatedModule" timestamp="1614170622369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -242,38 +259,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="408" y="0" key="#PageNo21_List_Exercice/0.0.1366.728@0.0.1366.728" timestamp="1614161300349" />
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1614708213030">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom" timestamp="1614947215572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614708213030" />
-    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1614708213030">
+    <state width="1345" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614947215572" />
+    <state width="1345" height="204" key="GridCell.Tab.0.center" timestamp="1614947215571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614708213030" />
-    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1614708213030">
+    <state width="1345" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614947215571" />
+    <state width="1345" height="204" key="GridCell.Tab.0.left" timestamp="1614947215571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614708213030" />
-    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1614708213030">
+    <state width="1345" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614947215571" />
+    <state width="1345" height="204" key="GridCell.Tab.0.right" timestamp="1614947215571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614708213030" />
-    <state width="1345" height="278" key="GridCell.Tab.1.bottom" timestamp="1614706498851">
+    <state width="1345" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614947215571" />
+    <state width="1345" height="278" key="GridCell.Tab.1.bottom" timestamp="1614943475468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614706498851" />
-    <state width="1345" height="278" key="GridCell.Tab.1.center" timestamp="1614706498851">
+    <state width="1345" height="278" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614943475468" />
+    <state width="1345" height="278" key="GridCell.Tab.1.center" timestamp="1614943475467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614706498851" />
-    <state width="1345" height="278" key="GridCell.Tab.1.left" timestamp="1614706498850">
+    <state width="1345" height="278" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614943475467" />
+    <state width="1345" height="278" key="GridCell.Tab.1.left" timestamp="1614943475467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614706498850" />
-    <state width="1345" height="278" key="GridCell.Tab.1.right" timestamp="1614706498851">
+    <state width="1345" height="278" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614943475467" />
+    <state width="1345" height="278" key="GridCell.Tab.1.right" timestamp="1614943475468">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="278" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614706498851" />
+    <state width="1345" height="278" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614943475468" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1614161143696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
